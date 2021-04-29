@@ -10,6 +10,7 @@
 ### Language Specific Resources
 
 1. Python (Flask/Django)
+    - [Flask Intermediate Google Drive](https://drive.google.com/drive/folders/1--AB2bFLhEfgonfR0r6oZQe4P_DAKN-U)
  
 
 
