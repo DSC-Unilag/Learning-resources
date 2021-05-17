@@ -7,7 +7,7 @@ Curated list for people choosing UI/UX as a field in Tech
 * [Fundamentals of UX](#fundamentals-of-ux)
 * [Design Thinking](#design-thinking)
 * [Information Architecture](#information-architecture)
-* [User Testing & Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
+* [User Testing and Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
 
 ##### Designers to Follow
 * Ademola Adekanbi: [Twitter](https://twitter.com/adekanbi_rex)
@@ -142,7 +142,7 @@ Information Architecture for the World Wide Web [Download](https://repo.zenk-sec
 
 
 
-### User Testing & Heuristics Evaluation
+### User Testing and Heuristics Evaluation
 #### Goals
 Begineers should be able to:
 1. Importance of usability testing
