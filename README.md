@@ -3,15 +3,15 @@ Welcome to the DSC UNILAG Club Learning guide. It contains various links to Arti
 
 The learning guide contains  the Basics, Intermediate and advance of the following tracks:
 
-1. Frontend Web Development
-2. Backend Web Development
-3. Python
-4. Mobile App Development (Flutter)
-5. Android App Development
-6. Data Science / Machine Learning
-7. Cyber Security
-8. Data Structures and Algorithms
-9. UI/UX Design
-10. Product Management
-11. Game Development
+1. [Frontend Web Development](./front-end)
+2. [Backend Web Development]('./backend)
+3. [Python]('./python.md)
+4. [Mobile App Development (Flutter)]('./mobile-app.md)
+5. [Android App Development]('./android.md)
+6. [Data Science / Machine Learning]('./data-science.md)
+7. [Cyber Security]('./cyber-securoty.md)
+8. [Data Structures and Algorithms]('./data-structures.md)
+9. [UI/UX Design]('./ui-ux.md)
+10. [Product Management]('./product-mgt.md)
+11. [Game Development]('./game-dev.md)
 
