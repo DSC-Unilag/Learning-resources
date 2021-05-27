@@ -37,6 +37,8 @@ Curated list for people choosing UI/UX as a field in Tech
 * Sam Adekunle: [Twitter](https://twitter.com/samoflagos)
 * Seyi Oniyitan: [Twitter](https://github.com/seyioniyitan)
 
+&nbsp;&nbsp;&nbsp;
+
 
 ### Softwares
 * Figma: [Website](https://figma.com/)
@@ -47,11 +49,12 @@ Curated list for people choosing UI/UX as a field in Tech
 * Principle(MacOS): [Website](http://principleformac.com/)
 * Framer: [Website](https://framer.com/)
 
+&nbsp;&nbsp;&nbsp;
 
 
 ### Fundamentals of UX
 #### Goals
-Begineers should be able to:
+Beginners should be able to:
 1. Distinguish between User Interface Design and User Experience Design
 1. Understand problem solving using User Experience Design
 1. Diffrentiate between "Good UX" and "Bad UX"
@@ -79,14 +82,15 @@ Begineers should be able to:
 * What Is UX Design? - An Introduction (2021) [Watch](https://www.youtube.com/watch?v=ziQEqGZB8GE)
 * 9 Tips for Becoming a GREAT UI Designer [Watch](https://www.youtube.com/watch?v=_J1Le-4aXhE)
 
+&nbsp;&nbsp;&nbsp;
 
 
 ### Design Thinking
 #### Goals
-Begineers should be able to:
+Beginners should be able to:
 1. Understand the UX Design process end to end
 1. Know the basics of the design thinking
-1. Empathise with users
+1. Empathize with users
 1. Figure out user pain points
 1. Understand and build personas
 
@@ -111,10 +115,11 @@ Begineers should be able to:
 * Design Thinking 101 [Watch](https://www.youtube.com/watch?v=6lmvCqvmjfE)
 * 9 Tips for Becoming a GREAT UI Designer [Watch](https://www.youtube.com/watch?v=_J1Le-4aXhE)
 
+&nbsp;&nbsp;&nbsp;
 
 ### Information Architecture
 #### Goals
-Begineers should be able to:
+Beginners should be able to:
 1. Digest and understand what information architecture 
 1. Understand concept like site mapping, user flow, user journey etc.
 1. Understand and write user stories and epics
@@ -140,11 +145,12 @@ Information Architecture for the World Wide Web [Download](https://repo.zenk-sec
 * Customer Journey Map Workshop[Watch](https://www.youtube.com/watch?v=X7iXcP-wIkk)
 * UX Design - Why you NEED to know User Flows! [Watch](https://www.youtube.com/watch?v=4uHxJMCzeGg)
 
+&nbsp;&nbsp;&nbsp;
 
 
 ### User Testing & Heuristics Evaluation
 #### Goals
-Begineers should be able to:
+Beginners should be able to:
 1. Importance of usability testing
 1. Carry out usability testing
 1. Have understanding of usability methods and how to carry them out
@@ -172,8 +178,86 @@ Begineers should be able to:
 * Usability Testing Tips & Tools: Powerful UX Research Method [Watch](https://www.youtube.com/watch?v=RyGFEmimwoM)
 
 
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 ## Intermediate
+### Table of Contents
+* [User Interview](#user-interview)
+* [Introduction to UI Design 1](#introduction-to-ui-design-1)
+* [Introduction to UI Design 2](#intoduction-to-ui-design-2)
+* [Design Systems](#design-systems)
+
+&nbsp;&nbsp;&nbsp;
+
+### User Interview
+#### Goals
+Interns should be able to:
+1. Digest and understand what user interview is
+1. Understand the methodology of preparing users interview.
+1. Should to carry out user interview (minimum of 10 questions in regards to what you're building) 
+
+#### Books
+* Starter questions for User research interviews | Havard University [Download](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf)
+* The User Interview - OakenDoor  [Download](http://www.oakendoor.com/documents/TheUserInterview.pdf)
+* Interview Techniques for Ux Practitioners. A User-Centered Design Method [Download](https://www.pdfdrive.com/interview-techniques-for-ux-practitioners-a-user-centered-design-method-d185828588.html)
+
+
+#### Articles
+* What are User Interviews? | Interaction Design Foundation [View](https://www.interaction-design.org/literature/topics/user-interviews)
+* User Interviews: How, When, and Why to Conduct Them  [View](https://www.nngroup.com/articles/user-interviews/)
+* User Interview Example Questions | Usability & Web Design[View](https://usability.yale.edu/understanding-your-user/user-interviews/user-interview-example-questions)
+* Usability Testing 101 - Nielsen Norman Group [View](https://www.nngroup.com/articles/usability-testing-101/)
+* A Cheatsheet for User Interview and Follow Ups Questions by Stephanie Walter [View](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
+* User Interviews: Guide To An Insightful UX Interview  [View](https://uxstudioteam.com/ux-blog/user-interviews/)
+* How to Conduct a User Interview That Actually Gets Insights | Shopify [View](https://www.shopify.com.ng/partners/blog/user-interview)
+
+
+#### Videos
+* How To Conduct User Interviews Like A Pro (UX Design) [Watch](https://www.youtube.com/watch?v=5tVbFfGDQCk&t=39s)
+* How to Conduct a User Interview for UX Designers (in 10 Minutes) - FREE Template Provided [Watch](https://www.youtube.com/watch?v=KZ6jj_EZUgM)
+* The 3 Types of User Interviews: Structured, Semi-Structured, and Unstructured [Watch](https://www.youtube.com/watch?v=jy-QGuWE7PQ)
+* Eric Migicovsky - How to Talk to Users at YCombinator [Watch](https://www.youtube.com/watch?v=qAws7eXItMk)
+* Lecture 16 - How to Run a User Interview (Emmett Shear) [Watch](https://www.youtube.com/watch?v=RyGFEmimwoM)
+* Performing a Research Interview: An Interview Example [Watch](https://www.youtube.com/watch?v=W4hBOxS0Pb0)
+
+
+&nbsp;&nbsp;&nbsp;
+
+### Introduction to UI Design 1
+#### Goals
+Interns should be able to:
+1. Understand the principle of good design
+1. Understand Visual Hierarchy & UI Patterns
+1. Understand the concept of wireframing (low, and mid)
+1. Interact with Figma, Adobe XD or Sketch interface
+1. Put mood boards together
+1. Understand each and every elements on your design software
+
+
+#### Books
+* Fundamentals of Good UI Design - Uday Gajendar [Download](http://udanium.com/misc/svcc11_UIfundamentals_v3.pdf)
+* User Interface Design  [Download](https://www.cs.umd.edu/~atif/Teaching/Spring2011/Slides/8.pdf)
+* The New Web Typography: Create a Visual Hierarchy with Responsive Web Design [Download](https://www.pdfdrive.com/the-new-web-typography-create-a-visual-hierarchy-with-responsive-web-design-e187576474.html)
+* Web UI Design Patterns [Download](http://docshare02.docshare.tips/files/27918/279189609.pdf)
+* Mobile UI Design Patterns [Download](https://s3.amazonaws.com/uxpin/uxpin_mobile_ui_design_patterns_2014.pdf)
+* WEB UI DESIGN BEST PRACTICES [Download](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/UXPIN_PL/U141030B.pdf)
+* Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps [Download](https://www.pdfdrive.com/mobile-design-pattern-gallery-ui-patterns-for-smartphone-apps-d174900923.html)
+
+
+#### Articles
+* What are User Interviews? | Interaction Design Foundation [View](https://www.interaction-design.org/literature/topics/user-interviews)
+* User Interviews: How, When, and Why to Conduct Them  [View](https://www.nngroup.com/articles/user-interviews/)
+* User Interview Example Questions | Usability & Web Design[View](https://usability.yale.edu/understanding-your-user/user-interviews/user-interview-example-questions)
+* Usability Testing 101 - Nielsen Norman Group [View](https://www.nngroup.com/articles/usability-testing-101/)
+* A Cheatsheet for User Interview and Follow Ups Questions by Stephanie Walter [View](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
+* User Interviews: Guide To An Insightful UX Interview  [View](https://uxstudioteam.com/ux-blog/user-interviews/)
+* How to Conduct a User Interview That Actually Gets Insights | Shopify [View](https://www.shopify.com.ng/partners/blog/user-interview)
+
+
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ## Advanced
