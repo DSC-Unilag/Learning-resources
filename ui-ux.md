@@ -322,6 +322,49 @@ Redesign two dribble projects
 
 
 
+&nbsp;&nbsp;&nbsp;
+
+### Design Systems
+#### Goals
+Interns should be able to:
+1. Design using existing design systems
+1. Create projects from deconstructing user stories
+1. Draw out user flow for a product
+
+
+#### Books
+* Practical UI Patterns for Design Systems [Download](https://link.springer.com/content/pdf/bfm%3A978-1-4842-4938-3%2F1.pdf)
+
+#### Articles
+* A comprehensive guide to design systems | Inside Design Blog [View](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+* Everything you need to know about Design Systems by Audrey Hacq [View](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+
+#### Videos
+* What is a Design System? Design Systems 101 for Designers [Watch](https://www.youtube.com/watch?v=wc5krC28ynQ)
+* Build it in Figma: Create a Design System — Foundations[Watch](https://www.youtube.com/watch?v=EK-pHkc5EL4)
+* Design Systems, Pattern Libraries & Style Guides... Oh My! [Watch](https://www.youtube.com/watch?v=rO5dBA-avfw)
+
+#### Resources
+Here are websites for design inspiration
+1. [Dribble - Discover the World's Top Designers & Creative Professionals](https://dribbble.com)
+1. [Behance :: For You](https://behance.net)
+1. [Design Resource](https://designresourc.es)
+1. [The Best Design Example and Inspiration | LandingFolio](https://landingfolio.com/inspiration)
+1. [3649 Landing Page Design Inspiration - Lapa Ninja](https://www.lapa.ninja)
+
+
+#### Tasks
+1. Put together a moodboard for concept recipe app
+Design a recipe concept app using "Pegasus" design systems [Pegasus Design Systems (Community) - Figma](https://www.figma.com/community/file/889142897767055377)
+> - Users should be able to login/signup via Google or Facebook
+> - Users should be able to sign up by inputting their email and creating a password
+> - Users should be able to read step by step procedure for their chose recipe
+> - Users should be able to watch videos tutorials of recipes
+> - Users should be able to rate recipes and also comment them
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
