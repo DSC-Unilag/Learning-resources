@@ -247,14 +247,37 @@ Interns should be able to:
 
 
 #### Articles
-* What are User Interviews? | Interaction Design Foundation [View](https://www.interaction-design.org/literature/topics/user-interviews)
-* User Interviews: How, When, and Why to Conduct Them  [View](https://www.nngroup.com/articles/user-interviews/)
-* User Interview Example Questions | Usability & Web Design[View](https://usability.yale.edu/understanding-your-user/user-interviews/user-interview-example-questions)
-* Usability Testing 101 - Nielsen Norman Group [View](https://www.nngroup.com/articles/usability-testing-101/)
-* A Cheatsheet for User Interview and Follow Ups Questions by Stephanie Walter [View](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
-* User Interviews: Guide To An Insightful UX Interview  [View](https://uxstudioteam.com/ux-blog/user-interviews/)
-* How to Conduct a User Interview That Actually Gets Insights | Shopify [View](https://www.shopify.com.ng/partners/blog/user-interview)
+* What is User Interface Design? | Interaction Design [View](https://www.interaction-design.org/literature/topics/ui-design)
+* What are User Interface (UI) Design Patterns? | Interaction Design [View](https://www.interaction-design.org/literature/topics/ui-design-patterns#:~:text=User%20interface%20(UI)%20design%20patterns%20are%20reusable%2Frecurring%20components,the%20specific%20context%20of%20use.)
+* The Principles of Design and Their Importance | Toptal [View](https://www.toptal.com/designers/ui/principles-of-design#:~:text=The%20elements%2C%20or%20principles%2C%20of,and%20optimizes%20the%20user%20experience.)
+* Visual Hierarchy in Design: Key Principles & Examples | Adobe XD [View](https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-principles-examples/)
+* UI Moodboard Template & Example - Milanote [View](https://milanote.com/templates/moodboards/UI-moodboard#:~:text=A%20UI%20moodboard%20is%20a,quickly%20to%20the%20wider%20team.)
+* 13 basic mobile UI patterns to know about | by Kate  [View](https://uxdesign.cc/mobile-ui-13-basic-patterns-of-app-ui-design-to-know-about-d3f7c6176f13)
+* Web Design Pattern  [View](http://ui-patterns.com/patterns)
 
+#### Videos
+* The 2019 UI Design Crash Course for Beginners | DesignCourse [Watch](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
+* Free Figma Tutorial: Designing Wireframes with Figma [Watch](https://www.youtube.com/watch?v=6t_dYhXyYjI)
+* Understanding Visual Hierarchy in UI Design - Live Project Follow-Along [Watch](https://www.youtube.com/watch?v=ZYs0_t_Gdhk)
+* UI Design Live: UI Patterns, Visual Hierarchy and Iterations [Watch](https://www.youtube.com/watch?v=D1pO4AQTfes&t=68s)
+* How to Create a Better Mood Board for UI | Mobile and Web Design [Watch](https://www.youtube.com/watch?v=jaXDWCB_0GM)
+* Performing a Research Interview: An Interview Example [Watch](https://www.youtube.com/watch?v=W4hBOxS0Pb0)
+* Learn Adobe XD in 2021 by Example (Crash Course) [Watch](https://www.youtube.com/watch?v=3rQ-eTmWah0)
+* Intro to Sketch for Beginners | Sketch Tutorial (2020) [Watch](https://www.youtube.com/watch?v=ilcwjXTqyNM)
+
+#### Tasks
+1. Design three mobile screens of Intagram & Facebook UI (mid-fidelity wireframe only)
+1. Design low fidelity wireframe for Apple Website (Landing Page) & Whatsapp Web (Landing screen and chat interface)
+
+#### Resources
+Wireframe Kits gotten from Figma Community
+
+* [Simple Wireframe Kit (Figma Official) - Figma](https://www.figma.com/templates/wireframe-kits/)
+* [Lo-fi Wireframe Kit (Community) - Figma](https://www.figma.com/community/file/887892609124245416)
+
+
+
+&nbsp;&nbsp;&nbsp;
 
 
 &nbsp;&nbsp;&nbsp;
