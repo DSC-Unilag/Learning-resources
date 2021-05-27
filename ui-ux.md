@@ -279,6 +279,49 @@ Wireframe Kits gotten from Figma Community
 
 &nbsp;&nbsp;&nbsp;
 
+### Introduction to UI Design 2
+#### Goals
+Interns should be able to:
+1. Understand the concept of responsive design
+1. Build components and naming convention
+1. Design interfaces using layouts and grids
+1. Create local style guides
+1. Use auto layout
+
+
+#### Books
+* Practical Responsive Web Design - CORE [Download](https://core.ac.uk/download/pdf/80995916.pdf)
+* Web Design Style Guide - Carleton College  [Download](https://apps.carleton.edu/campus/web-group/assets/Web_Design_Style_Guide_1.0.pdf)
+
+
+#### Articles
+* Layout Grid - Figma Handbook - Design+Code [View](https://designcode.io/figma-handbook-layout-grid/)
+* Create scalable web page layouts in Figma | UX Collective [View](https://uxdesign.cc/create-scalable-web-page-layouts-in-figma-e7e6e580dd67)
+* Consistency Is Key – How to Build a Figma Design System | Toptal [View](https://www.toptal.com/designers/figma/figma-design-system)
+* Auto Layout in Figma - Figma Handbook - Design+Code [View](https://designcode.io/figma-handbook-auto-layout/)
+* Working with Layout Tools in Adobe XD [View](https://www.adobe.com/products/xd/learn/design/productivity/working-with-layout-tools.html)
+
+
+
+#### Videos
+* Figma Tutorial: Layout Grids [Watch](https://www.youtube.com/watch?v=zd8wrAdURN0)
+* Figma Tutorial: Setup a Responsive Grid Layout for UI & Web Design (IN 11 MINUTES) [Watch](https://www.youtube.com/watch?v=_w-iYiEXrl0)
+* Figma Tutorial: Variants in 11 minutes (With Demo File & Real Examples) [Watch](https://www.youtube.com/watch?v=cE2fCeWqjnY)
+* Figma Tutorial: Creating Styles [Watch](https://www.youtube.com/watch?v=gtQ_A3imzsg)
+* Figma in 5: Auto Layout [Watch](https://www.youtube.com/watch?v=TyaGpGDFczw)
+* Performing a Research Interview: An Interview Example [Watch](https://www.youtube.com/watch?v=JM7P7mWgJbo)
+* Learn Adobe XD in 2021 by Example (Crash Course) [Watch](https://www.youtube.com/watch?v=3rQ-eTmWah0)
+* Figma Shoe Ordering Mobile App Design (Figma Mobile Design 2020) [Watch](https://www.youtube.com/watch?v=ilcwjXTqyNM)
+
+#### Tasks
+Redesign two dribble projects
+1. [#Exploration - Fashion Website by Dwinawan for Paperpillar on Dribble](https://dribbble.com/shots/14836845--Exploration-Fashion-Website)
+1. [#Exploration - More Screens - Fashion Mobile App by Dwinawan for Paperpillar on Dribble](https://dribbble.com/shots/14865120--Exploration-More-Screens-Fashion-Mobile-App)
+1. Create a local style guide using components, auto layout etc. for the dribble projects
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
