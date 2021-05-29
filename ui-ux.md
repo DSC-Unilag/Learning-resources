@@ -126,8 +126,7 @@ Beginners should be able to:
 
 #### Books
 * Information Architecture: The Design and Integration of Information Spaces. [Download](https://www.pdfdrive.com/information-architecture-the-design-and-integration-of-information-spaces-synthesis-lectures-on-information-concepts-retrieval-and-services-e160952086.html)
-* 
-Information Architecture for the World Wide Web [Download](https://repo.zenk-security.com/Others/Information%20Architecture%20For%20The%20World%20Wide%20Web.pdf)
+* Information Architecture for the World Wide Web [Download](https://repo.zenk-security.com/Others/Information%20Architecture%20For%20The%20World%20Wide%20Web.pdf)
 
 #### Articles
 * A Beginner's Guide To Information Architecture in UX (2021) [View](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
