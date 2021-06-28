@@ -185,7 +185,7 @@ Beginners should be able to:
 ### Table of Contents
 * [User Interview](#user-interview)
 * [Introduction to UI Design 1](#introduction-to-ui-design-1)
-* [Introduction to UI Design 2](#intoduction-to-ui-design-2)
+* [Introduction to UI Design 2](#introduction-to-ui-design-2)
 * [Design Systems](#design-systems)
 
 &nbsp;&nbsp;&nbsp;
@@ -369,3 +369,59 @@ Design a recipe concept app using "Pegasus" design systems [Pegasus Design Syste
 &nbsp;&nbsp;&nbsp;
 
 ## Advanced
+
+### Table of Contents
+* [Prototyping](#prototyping)
+* [Case Studies](#case-studies)
+* [Project - UX Phase](#project-ux-phase)
+* [Project - UI Phase](#project-ui-phase)
+* [Project - Testing and Publishing](#project-testing-and-publishing)
+
+###Prototyping
+#### Goals
+Interns should be able to:
+1. Create clickable prototypes of their existing projects
+1. Manoeuvre animations in prototype - use Fade, Slide, Push, Overlay
+1. Handover Prototype to developers for Dev Testing
+1. Manoeuvre animations in prototype
+
+
+#### Books
+* How to Prototype [Download](https://www.pdfdrive.com/how-to-prototype-d34906914.html)
+* How to Prototype: The Rapid Prototyping Process [Download](https://www.pdfdrive.com/how-to-prototype-the-rapid-prototyping-process-d53255798.html)
+
+
+#### Articles
+* 14 best prototyping tools for UI/UX designers | Webflow Blog [View](https://webflow.com/blog/prototyping-tools#:~:text=A%20prototyping%20tool%20enables%20a,any%20UI%2FUX%20designer's%20arsenal.&text=Prototypes%20are%20an%20opportunity%20to,and%20fine%2Dtune%20the%20details.)
+* 4 Steps to Build Your Product's First Prototype | Athgo [View](https://athgo.org/4-steps-build-products-first-prototype/)
+* A Complete Introduction to Prototyping (Stage 4 of the Design Thinking Process) [View](https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/)
+* Prototyping: Learn Eight Common Methods and Best Practices [View](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices)
+* Perfect Your UX Design Process – A Guide to Prototype Design [View](https://www.toptal.com/designers/prototyping/guide-to-prototype-design)
+* Guide to prototyping in Figma [View](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma)
+
+
+#### Videos
+* Figma Tutorial - Prototyping in Figma [Watch](https://www.youtube.com/watch?v=iBkXf6u8htI)
+* Horizontal & Vertical Scrolling | Figma Tutorial [Watch](https://www.youtube.com/watch?v=wIPo7vxxchY)
+* Figma Tutorial: Smart Animate and Drag Triggers [Watch](https://www.youtube.com/watch?v=6Id4INKEwb8&t=134s)
+* Figma Tutorial: Prototyping [Watch](https://www.youtube.com/watch?v=-sAAa-CCOcg)
+* Figma Tutorial: Prototyping & Transitions [Watch](https://www.youtube.com/watch?v=-d6zNGeF59M)
+* Food App Design | UX/UI ( Wireframe, Prototype, Export) [Watch](https://www.youtube.com/watch?v=195RY7jCuZg)
+* Figma tutorial: Handoff seamlessly to developers [8 of 8] [Watch](https://www.youtube.com/watch?v=B242nuM3y2s)
+* Figma For Beginners: Prepare for Handoff (4/4) [Watch](https://www.youtube.com/watch?v=EQ_FL6u8EyM)
+
+
+#### Resources
+Here are websites for prototyping softwares
+1. [Figma](https://figma.com)
+1. [Proto.io - Prototyping for all](https://proto.io/)
+1. [Online Mockup, Wireframe & UI Prototyping Tool · Moqups](https://moqups.com/)
+2. [MockFlow - Online Wireframe Tools, Prototyping Tools, Online](https://www.mockflow.com/)
+
+
+#### Tasks
+Design and prototype two dribbble posts
+> - [Design and prototype two dribbble posts](https://dribbble.com/shots/14926647-Events-Exploring-App)
+> - [Design and prototype two dribbble posts](https://dribbble.com/shots/14723171-Animated-Tabbar)
+
+Prototype your recipe concept app
