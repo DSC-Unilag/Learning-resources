@@ -7,7 +7,7 @@ Curated list for people choosing UI/UX as a field in Tech
 * [Fundamentals of UX](#fundamentals-of-ux)
 * [Design Thinking](#design-thinking)
 * [Information Architecture](#information-architecture)
-* [User Testing & Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
+* [User Testing and Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
 
 ##### Designers to Follow
 * Ademola Adekanbi: [Twitter](https://twitter.com/adekanbi_rex)
@@ -147,7 +147,7 @@ Beginners should be able to:
 &nbsp;&nbsp;&nbsp;
 
 
-### User Testing & Heuristics Evaluation
+### User Testing and Heuristics Evaluation
 #### Goals
 Beginners should be able to:
 1. Importance of usability testing
@@ -185,7 +185,7 @@ Beginners should be able to:
 ### Table of Contents
 * [User Interview](#user-interview)
 * [Introduction to UI Design 1](#introduction-to-ui-design-1)
-* [Introduction to UI Design 2](#intoduction-to-ui-design-2)
+* [Introduction to UI Design 2](#introduction-to-ui-design-2)
 * [Design Systems](#design-systems)
 
 &nbsp;&nbsp;&nbsp;
@@ -369,3 +369,146 @@ Design a recipe concept app using "Pegasus" design systems [Pegasus Design Syste
 &nbsp;&nbsp;&nbsp;
 
 ## Advanced
+
+### Table of Contents
+* [Prototyping](#prototyping)
+* [Case Studies](#case-studies)
+* [Project - UX Phase](#project-ux-phase)
+* [Project - UI Phase](#project-ui-phase)
+* [Project - Testing and Publishing](#project-testing-and-publishing)
+
+### Prototyping
+#### Goals
+Interns should be able to:
+1. Create clickable prototypes of their existing projects
+1. Manoeuvre animations in prototype - use Fade, Slide, Push, Overlay
+1. Handover Prototype to developers for Dev Testing
+1. Manoeuvre animations in prototype
+
+
+#### Books
+* How to Prototype [Download](https://www.pdfdrive.com/how-to-prototype-d34906914.html)
+* How to Prototype: The Rapid Prototyping Process [Download](https://www.pdfdrive.com/how-to-prototype-the-rapid-prototyping-process-d53255798.html)
+
+
+#### Articles
+* 14 best prototyping tools for UI/UX designers | Webflow Blog [View](https://webflow.com/blog/prototyping-tools#:~:text=A%20prototyping%20tool%20enables%20a,any%20UI%2FUX%20designer's%20arsenal.&text=Prototypes%20are%20an%20opportunity%20to,and%20fine%2Dtune%20the%20details.)
+* 4 Steps to Build Your Product's First Prototype | Athgo [View](https://athgo.org/4-steps-build-products-first-prototype/)
+* A Complete Introduction to Prototyping (Stage 4 of the Design Thinking Process) [View](https://careerfoundry.com/en/blog/ux-design/design-thinking-stage-four-prototyping/)
+* Prototyping: Learn Eight Common Methods and Best Practices [View](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices)
+* Perfect Your UX Design Process – A Guide to Prototype Design [View](https://www.toptal.com/designers/prototyping/guide-to-prototype-design)
+* Guide to prototyping in Figma [View](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma)
+
+
+#### Videos
+* Figma Tutorial - Prototyping in Figma [Watch](https://www.youtube.com/watch?v=iBkXf6u8htI)
+* Horizontal & Vertical Scrolling | Figma Tutorial [Watch](https://www.youtube.com/watch?v=wIPo7vxxchY)
+* Figma Tutorial: Smart Animate and Drag Triggers [Watch](https://www.youtube.com/watch?v=6Id4INKEwb8&t=134s)
+* Figma Tutorial: Prototyping [Watch](https://www.youtube.com/watch?v=-sAAa-CCOcg)
+* Figma Tutorial: Prototyping & Transitions [Watch](https://www.youtube.com/watch?v=-d6zNGeF59M)
+* Food App Design | UX/UI ( Wireframe, Prototype, Export) [Watch](https://www.youtube.com/watch?v=195RY7jCuZg)
+* Figma tutorial: Handoff seamlessly to developers [8 of 8] [Watch](https://www.youtube.com/watch?v=B242nuM3y2s)
+* Figma For Beginners: Prepare for Handoff (4/4) [Watch](https://www.youtube.com/watch?v=EQ_FL6u8EyM)
+
+
+#### Resources
+Here are websites for prototyping softwares
+1. [Figma](https://figma.com)
+1. [Proto.io - Prototyping for all](https://proto.io/)
+1. [Online Mockup, Wireframe & UI Prototyping Tool · Moqups](https://moqups.com/)
+2. [MockFlow - Online Wireframe Tools, Prototyping Tools, Online](https://www.mockflow.com/)
+
+
+#### Tasks
+Design and prototype two dribbble posts
+> - [Events Exploring App by Fireart Studio on Dribbble](https://dribbble.com/shots/14926647-Events-Exploring-App)
+> - [Animated Tab Bar by Cuberto on Dribbble](https://dribbble.com/shots/14723171-Animated-Tabbar)
+
+Prototype your recipe concept app
+&nbsp;&nbsp;&nbsp;
+
+### Case Studies
+#### Goals
+Interns should be able to:
+1. Understand the process of writing a case study
+1. Write case studies for their own projects
+1. Understand and create their own design briefs
+1. Approach new or existing projects with ease
+
+
+#### Books
+* Writing Case Studies [Download](hhttp://www2.econ.iastate.edu/classes/econ362/hallam/CaseStudies/WritingCaseStudy.pdf)
+* PREPARING A CASE STUDY:A Guide for Designing and Conducting a Case Study for Evaluation Input [Download](https://donate.pathfinder.org/site/DocServer/m_e_tool_series_case_study.pdf;jsessionid=00000000.app20015b?NONCE_TOKEN=7822B71619FAAAC2B553018D3506C88D)
+* WRITING CASE STUDIES: A MANUAL [Download](http://www.ntu.edu.vn/Portals/96/Tu%20lieu%20tham%20khao/Phuong%20phap%20giang%20day/case%20writing%20manual.pdf)
+* DESIGNING CASE STUDIES | David E. Gray[Download](https://www.sfu.ca/~palys/Gray-2014-DoingResearchInTheRealWorld-CaseStudyDesign.pdf)
+* A UI Design Case Study and a Prototype of a Travel Search Engine Project Report [Download](https://www.pdfdrive.com/a-ui-design-case-study-and-a-prototype-of-a-travel-search-engine-project-report-concordia-d35194567.html)
+
+
+#### Articles
+* How to write a UX case study | Inside Design Blog - InVision [View](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
+* Use This Guide To Write An Awesome UX Case Study [View](https://careerfoundry.com/en/blog/ux-design/ux-case-study/)
+* How to create the perfect structure for a UX case study [View](https://www.interaction-design.org/literature/article/how-to-create-the-perfect-structure-for-a-ux-case-study)
+* How to write a UX case study to showcase your process & skills [View](https://www.uxportfolioformula.com/how-to-write-a-ux-case-study/)
+
+
+#### Videos
+* How To Write A UX Case Study [Watch](https://www.youtube.com/watch?v=7l0ij8qJnA0)
+* How to Outline & Write your UX Case Study | real example! [Watch](https://www.youtube.com/watch?v=M5HC58tTC2U)
+* UX Portfolio | How to Create a UX Case Study [Watch](https://www.youtube.com/watch?v=mWnfc0Lm_F4)
+* Writing the Perfect UI/UX Case Study [Watch](https://www.youtube.com/watch?v=d8FtsgQyGXw)
+* Creating a Design Brief [Watch](https://www.youtube.com/watch?v=2oh-7CGSJ1g) 
+* How to Write an Awesome Design Brief | Building Better Brands | Episode 11 - YouTube [Watch](https://www.youtube.com/watch?v=b6DndtGz9kc)
+
+
+#### Resources
+Here are websites for resources on case studies
+1. [How to Write a UX Case Study: Template and Examples - AdobeXD](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/)
+2. [Create A Killer UX Design Portfolio With These Pro Tips - YouTube](https://www.youtube.com/watch?v=cYjVJZ6iPIw)
+
+
+#### Tasks
+Read and digest two case studies on food
+> - [For the Love of Food, People, and UX | by Katie Chen | UX Collective (uxdesign.cc)](https://uxdesign.cc/for-the-love-of-food-people-and-ux-11251d6a0303)
+> - [Product Design Review - JumiaFood App - Google Docs](https://docs.google.com/document/d/1uggiwEKX4OdZMJ3L_ZDFws5iyJ5mMMZ907L_WHR_Nx0/edit)
+
+Note any new thing you learnt or any thing that got you confused
+
+
+
+
+&nbsp;&nbsp;&nbsp;
+
+### Project - UX Phase
+#### Tasks
+Design a tenant finder and communication app that will allow landlords to find and communicate with potential tenants directly without any dealer. It will also allow tenants to communicate with their existing landlords regarding property issues, maintenance requirements, pay rents, etc.
+
+> - Use the UX techniques you’ve been taught since week one (i.e user research, user stories, user flow, wireframing etc.) to carry out this exercise. Once you’ve gotten all you need, begin writing a case study on what you were able to discover.
+> - Your case study should have the problem statement, personas, information architecture, wireframes, and your UX design process in general.
+
+
+
+
+&nbsp;&nbsp;&nbsp;
+
+### Project - UI Phase
+#### Tasks
+> - Convert your wireframes into high fidelity screens
+> - Prototype your high fidelity screens
+> - Complete your case study
+
+
+
+
+&nbsp;&nbsp;&nbsp;
+### Project - Testing and Publishing
+#### Tasks
+> - Test your prototype with users to look out for usability issues
+> - Test your work against the heuristics evaluations
+> - Document your findings in your case study
+> - Publish your work on your portfolio
+
+
+
+Apply for that dream job as a Product Designer!😁
+
+
